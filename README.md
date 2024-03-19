@@ -1,1 +1,1 @@
-# super_monkey_spheroid
+# super_penguin_spheroid
