@@ -6,12 +6,16 @@
     - [ ] 2,4,5(Jack)
 
 - [ ] Looks Good ( ICE THEME ) 
-    - Gate texture(Braxton)
-    - Ball texture(Jack)
-    - Stage texure(Jack)
-        - might get complicated (werid shapes)
-    - Background(Braxton)
+    - [ ] Gate texture(Braxton)
+    - [ ] Ball texture(Jack)
+    -  [ ] Stage texture(Jack)
+        - might get complicated (wierd shapes)
+    -  [ ] Background(Braxton)
 
 - [ ] Main Menu(Jack)
 
 - [ ] Canvas(timer,score,etc)(Braxton) 
+
+- [ ] score screen
+
+- [ ] in levels think of cool obsticles
